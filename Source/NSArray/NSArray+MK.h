@@ -23,7 +23,7 @@
 //  THE SOFTWARE.
 //
 
-#import "NSArray+MK_Block.h"
+#import <MKFoundationKit/NSArray+MK_Block.h>
 #import <MKFoundationKit/NSArray+MK_Misc.h>
 
 #import <MKFoundationKit/NSMutableArray+MK_Misc.h>
