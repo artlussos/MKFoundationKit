@@ -24,11 +24,8 @@
 //
 
 #import "NSArray+MK_Block.h"
-#import "NSArray+MK_Misc.h"
+#import <MKFoundationKit/NSArray+MK_Misc.h>
 
-#import "NSMutableArray+MK_Misc.h"
-#import "NSMutableArray+MK_Queue.h"
-#import "NSMutableArray+MK_Stack.h"
-
-
-
+#import <MKFoundationKit/NSMutableArray+MK_Misc.h>
+#import <MKFoundationKit/NSMutableArray+MK_Queue.h>
+#import <MKFoundationKit/NSMutableArray+MK_Stack.h>
